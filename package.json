@@ -1,10 +1,10 @@
 {
-  "name": "chewy-v12-uptime",
+  "name": "discord-uptime-bot",
   "version": "0.0.1",
-  "description": "Chewy tarafından kodlanmış uptime botudur.",
-  "main": "chewy.js",
+  "description": "Beasty tarafından kodlanmış uptime botudur.",
+  "main": "bot.js",
   "scripts": {
-    "start": "node chewy.js"
+    "start": "node bot.js"
   },
   "keywords": [
     "Chewy",
