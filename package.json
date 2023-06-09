@@ -4,13 +4,10 @@
   "description": "Chewy tarafından kodlanmış uptime botudur.",
   "main": "chewy.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node chewy.js"
   },
   "keywords": [
     "Chewy",
     "Glitch",
     "Discord"
-  ],
-  "author": "Chewy",
-  "license": "MIT"
-}
+  ]
